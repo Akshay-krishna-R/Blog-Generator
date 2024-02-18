@@ -12,7 +12,7 @@ The Generative AI Blog Generator is a cutting-edge project designed to automatic
 - 🌐 User-friendly interface powered by Streamlit, ensuring seamless interaction.
 
 ## Technologies Used
-- 🤖 LangChain: A sophisticated language model for natural language processing and generation.
+- 🤖 LangChain: A sophisticated language model for natural language processing and generation, including the `llama-2-7b-chat.ggmlv3` model.
 - 📦 Sentence-Transformers: Utilized for text embeddings and semantic similarity computations.
 - 🚀 Uvicorn: An ASGI server that provides lightning-fast web serving capabilities.
 - 💻 Python-Box: Simplifies working with configuration settings in Python projects.
