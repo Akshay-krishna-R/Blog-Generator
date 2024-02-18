@@ -1,4 +1,5 @@
 ```markdown
+```
 # 🌟 Generative AI Blog Generator 🚀
 
 ## Overview
@@ -60,6 +61,7 @@ streamlit
 To install the packages listed in `requirements.txt`, use the following command:
 ```
 pip install -r requirements.txt
+```
 ```
 
 ### Conclusion
